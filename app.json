@@ -1,6 +1,6 @@
 {
-  "name": "Asuna",
-  "description": "A WhatsApp Bot With Rich Anime Features. ",
+  "name": "Minato – ✿ ",
+  "description": "A WhatsApp Bot With Rich Anime Features created by Lord akashi. ",
   "keywords": [
       "bot",
       "whatsapp",
@@ -11,8 +11,8 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
   ],
-  "website": "https://github.com/ShinNouzen/Chitoge#readme",
-  "repository": "https://github.com/ShinNouzen/Chitoge.git",
+  "website": "https://github.com/minato1220/Chitoge#readme",
+  "repository": "https://github.com/minato1220/Chitoge.git",
   "logo": "https://wallpapermemory.com/uploads/711/chitoge-kirisaki-wallpaper-full-hd-323316.jpg",
   "success_url": "/",
   "env": {
